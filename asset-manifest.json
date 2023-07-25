@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VCAT-dashboard/static/css/main.29bcdb57.css",
-    "main.js": "/VCAT-dashboard/static/js/main.92565289.js",
+    "main.css": "/VCAT-dashboard/static/css/main.3b1d2f09.css",
+    "main.js": "/VCAT-dashboard/static/js/main.50a7d6ca.js",
     "index.html": "/VCAT-dashboard/index.html",
-    "main.29bcdb57.css.map": "/VCAT-dashboard/static/css/main.29bcdb57.css.map",
-    "main.92565289.js.map": "/VCAT-dashboard/static/js/main.92565289.js.map"
+    "main.3b1d2f09.css.map": "/VCAT-dashboard/static/css/main.3b1d2f09.css.map",
+    "main.50a7d6ca.js.map": "/VCAT-dashboard/static/js/main.50a7d6ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bcdb57.css",
-    "static/js/main.92565289.js"
+    "static/css/main.3b1d2f09.css",
+    "static/js/main.50a7d6ca.js"
   ]
 }
